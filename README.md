@@ -3,13 +3,11 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha-mangena&label=Profile%20views&color=0e75b6&style=flat" alt="harsha-mangena" /> </p>-->
 
-- 🔭 I’m currently working on [QuiZzer](https://gihub.com/QuiZzer)
+- 🔭 I’m currently at **UrbanPiper**
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on [Cart MicroService](https://github.com/harsha-mangena/Cart-MicroService)
-
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, Python**
 
 - 📫 How to reach me **harsha.mangena99@gmail.com**
 
