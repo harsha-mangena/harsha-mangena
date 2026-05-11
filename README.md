@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me about **Java, Spring Boot, Python**
 - 📫 How to reach me **harsha.mangena99@gmail.com**
-- ⚡ Fun fact **I do sleep code a lot.**
+- ⚡ Fun fact **I sleep-code a lot.**
 
 ## Connect with me
 <p align="left">
