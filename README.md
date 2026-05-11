@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:sairanga.mangina@gmail.com">sairanga.mangina@gmail.com</a> •
   <a href="tel:+18644071871">+1 (864) 407-1871</a> •
-  Portfolio •
   <a href="https://github.com/harsha-mangena">GitHub</a> •
   <a href="https://www.linkedin.com/in/sri-harsha-mangina/">LinkedIn</a>
 </p>
