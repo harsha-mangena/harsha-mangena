@@ -17,7 +17,7 @@
 AI/ML Engineer with experience designing, fine-tuning, and deploying production-grade LLM, NLP, and Computer Vision systems serving 50K+ daily predictions across enterprise environments. Expert in PyTorch, TensorFlow, LangChain, Hugging Face, vector databases, and RAG pipelines, with a proven record of improving model accuracy by 19 points and reducing inference latency below 500ms. Skilled in MLOps (MLflow, Kubernetes, SageMaker, Docker), distributed data pipelines (Kafka, Spark, Airflow), and full-stack ML infrastructure on AWS, Azure, and GCP. Passionate about translating cutting-edge research into mission-critical AI products.
 
 ## Experience
-### AI Engineer | Hyperwater (Pre-Seed) — Oct 2025–Present, Dallas, TX
+### AI Engineer | Hyperwater — Oct 2025–Present, Dallas, TX
 - Owned serverless backend on AWS Lambda, API Gateway, DynamoDB, and Step Functions; reduced cold-start fanout cost by ~22% and handled ~28K events/day.
 - Designed GraphRAG platform on Neo4j with ColPali visual embeddings; indexed ~147K documents and achieved p95 retrieval of 480ms after adding a cross-encoder reranker.
 - Fine-tuned Llama-3.1-8B and Mistral-7B with LoRA/QLoRA and MLflow on ~24K labeled specs; accuracy rose from 72% to 91% while 4-bit quantization cut inference cost ~45%.
